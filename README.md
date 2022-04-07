@@ -25,3 +25,5 @@ Now you are ready to save your events and schedule your time properly.
 ![Work-Day-Scheduler](./Assets/05-third-party-apis-homework-demo.gif)
 
 ## Link to deploy application
+
+https://jorgecdl96.github.io/WorkDayScheduler/
