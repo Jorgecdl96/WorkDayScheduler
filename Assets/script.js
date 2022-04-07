@@ -62,37 +62,6 @@ for (let i = 8; i < hour.length; i++) {
     
 }
 
-//$('#hr-8').val(localStorage.getItem('hour8'));
-
 saveBtn.on('click', saveToLocalStorage);
 
-//saveBtn.on('click', function(e){
-    //console.log(e.target.id);
-
-    // var btnNum = e.target.id;
-
-    // var arrayBtn = [0,0,0,0,0,0,0,0,'btn8', 'btn9', 'btn10', 'btn11', 'btn12', 'btn13', 'btn14', 'btn15', 'btn16'];
-
-    // for (let i = 8; i < arrayBtn.length; i++) {
-        
-    //     if(btnNum === arrayBtn[i]){
-
-    //         hour[i] = hour[i].val();
-
-    //         localStorage.setItem('hour' + i, hour[i]);
-
-    //     }
-        
-    // }
-
-    // switch (e.target.id) {
-    //     case 'btn8':
-    //         console.log('Hola');
-    //         break;
-            
-    //     default:
-    //         console.log('Quack');
-    //         break;
-    // }
-//});
 
